@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: r_viwo_ark
+Description: Description of r_viwo_ark
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lr_viwo_ark
+Requires: roscpp rospy std_msgs cv_bridge image_transport tf sensor_msgs message_runtime

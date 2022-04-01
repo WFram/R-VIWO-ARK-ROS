@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wfram/r_viwo_ark_ws/src/cmake-build-debug/devel/setup.sh
